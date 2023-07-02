@@ -1,3 +1,13 @@
+# NOTE
+
+This repository was initiated to have a (public) archive of AlfonsoML's tools. There was a fork on gitlab, but since AlfonsoML abondoned all work and set their repository to private mode, the forks also in private mode without the possibility to change this to public.
+
+
+If you want a copy of the tools which are still in development, look at:
+[https://gitlab.com/NvlblNm/pogo-s2](https://gitlab.com/NvlblNm/pogo-s2)
+
+
+
 # Pogo-Tools
 This is script to that tries to help finding out info about Pokestops and Gyms in Pokemon Go. Is is a plugin for IITC to run in https://ingress.com/intel, you need an Ingress account and IITC already installed. ~~I've published an additional page with an [overview of the features](https://gitlab.com/AlfonsoML/pogo-s2/wikis/How-to-add-new-PoI-to-your-city).~~
 
