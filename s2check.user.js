@@ -3,9 +3,10 @@
 // @id           s2check@alfonsoml
 // @category     Layer
 // @namespace    https://github.com/AlfonsoML-s/pogo-s2/
-// @downloadURL  https://github.com/AlfonsoML-s/pogo-s2/raw/master/s2check.user.js
+// @downloadURL  https://gitlab.com/NvlblNm/pogo-s2/raw/master/s2check.user.js
+// @updateURL    https://gitlab.com/NvlblNm/pogo-s2/raw/master/s2check.user.js
 // @homepageURL  https://alfonsoml-s.github.io/pogo-s2/
-// @version      0.101
+// @version      0.102
 // @description  Pokemon Go tools over IITC.
 // @author       Alfonso M.
 // @match        https://intel.ingress.com/*
